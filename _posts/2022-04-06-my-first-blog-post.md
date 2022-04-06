@@ -1,1 +1,4 @@
-I have no idea what to do
+---
+title: "JunOhS's blog"
+date: 2022-04-06
+---
